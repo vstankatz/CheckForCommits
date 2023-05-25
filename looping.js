@@ -37,4 +37,3 @@ do {
 
 //Calling on the new array
 doubledArray;
- 
